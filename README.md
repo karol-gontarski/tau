@@ -1,4 +1,2 @@
-tau
+[&tau;] where Bootstrap meets Symfony2
 ===
-
-Bootstrap meets Symfony2
